@@ -1,6 +1,8 @@
 # Recursion
 
-**TODO: Add description**
+**Desafio: Utilizando recursão**
+
+Nesse desafio, você deverá criar uma função que, dada uma lista de números, calcule recursivamente, quantos elementos há na lista e retorne esse valor.
 
 ## Installation
 
@@ -18,4 +20,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/recursion>.
-
